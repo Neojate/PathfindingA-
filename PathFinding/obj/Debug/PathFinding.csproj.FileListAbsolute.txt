@@ -1,0 +1,7 @@
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\bin\Debug\PathFinding.exe.config
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\bin\Debug\PathFinding.exe
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\bin\Debug\PathFinding.pdb
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\obj\Debug\PathFinding.csprojAssemblyReference.cache
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\obj\Debug\PathFinding.csproj.CoreCompileInputs.cache
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\obj\Debug\PathFinding.exe
+E:\Mis documentos\Proyectos\Pathalgorithm\PathFinding\PathFinding\obj\Debug\PathFinding.pdb
